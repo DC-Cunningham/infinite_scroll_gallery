@@ -13,7 +13,7 @@
 
 ## Screenshot
 
-![Infinite Scroll Gallery screenshot](https://github.com/DC-Cunningham/Quote_Generator/blob/master/assets/SS_InfiniteScroll.png)
+![Infinite Scroll Gallery screenshot](https://github.com/DC-Cunningham/infinite_scroll_gallery/blob/master/assets/SS_InfiniteScroll.png)
 
 ## Installation
 
